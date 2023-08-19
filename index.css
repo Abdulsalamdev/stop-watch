@@ -1,0 +1,20 @@
+body {
+  background-color: #466f61;
+  color: #3fec40;
+  font-size: 50px;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.count {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding-bottom: 30px;
+}
